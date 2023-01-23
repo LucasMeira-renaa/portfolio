@@ -1,0 +1,281 @@
+#fim_onda {
+content: '';
+height: 45vh;
+
+width: 100%;
+bottom: 0px;
+background: url('../img/wave.svg');
+background-size: cover;
+
+color: white;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+    display: block;
+    justify-content: center
+}
+
+
+
+
+   * {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-size: 16px;
+      font-family: "Raleway", sans-serif;
+    }
+
+    h1 {
+      font-size: 4rem;
+    }
+
+    p {
+      font-size: 2.5rem;
+      font-weight: 300;
+    }
+
+    section {
+      display: table;
+      width: 100%;
+    }
+
+
+
+    .cor_roxa_50_por_cento{
+      background: #8e44ad;
+      margin-top:7%;
+      height: 82vh;
+
+
+    }
+     .espacamento_card {
+      background: #ffffff;
+      margin-top:4%;
+      height: -5vh;
+
+
+    }
+
+    .ajustando_tela_100%_quem_sou {
+      background: #ffffff;
+      height: 100vh;
+    }
+
+
+.objetivos_skills_sites {
+      background: #34495e;
+      height: 90vh;
+    }
+
+
+.espacamento_em_branco {
+      background: #ffffff;
+      height: 5vh;
+    }
+
+
+.video1
+{
+      height: 32vh;
+
+}
+
+.video2
+{
+      height: 32vh;
+
+}
+
+.video3
+{
+      height: 32vh;
+
+}
+
+
+
+
+    @media (max-width: 1500px) {
+
+    .videos_sites {
+      background: #00408B;
+      height: 80vh;
+    }
+
+    .objetivos_skills_sites {
+      background: #34495e;
+      height: 90vh;
+    }
+    }
+
+
+    @media (max-width: 767px) {
+
+
+    .videos_sites {
+      background: #00408B;
+      height: 80vh;
+    }
+
+    .objetivos_skills_sites {
+      background: #34495e;
+      height: 100vh;
+    }
+
+    .video1
+{
+      height: 15vh;
+
+}
+
+.video2
+{
+      height: 15vh;
+
+}
+
+.video3
+{
+      height: 15vh;
+
+}
+
+
+    }
+
+
+     @media (max-width: 1050px) {
+
+
+    .videos_sites {
+      background: #00408B;
+      height: 80vh;
+    }
+
+    .objetivos_skills_sites {
+      background: #34495e;
+      height: 100vh;
+    }
+
+    .video1
+{
+      height: 20vh;
+
+}
+
+.video2
+{
+      height: 20vh;
+
+}
+
+.video3
+{
+      height: 20vh;
+
+}
+
+
+    }
+
+    @media (max-width: 575px) {
+
+    .videos_sites {
+      background: #00408B;
+      height: 150vh;
+      display: block;
+    align-items: center;
+    justify-content: start;
+    }
+
+    .objetivos_skills_sites {
+      background: #34495e;
+      height: 130vh;
+      display: flex;
+    align-items: center;
+    justify-content: start;
+    }
+    .espacamento_em_branco {
+      background: #ffffff;
+      height: 12vh;
+    }
+    }
+
+
+
+
+
+
+     .div_contato {
+      background: #0e111c;
+      height: 70vh;
+      margin-top:0%;
+
+
+    }
+ 
+    .fonte_branca {
+      color: #ffffff;
+
+    }
+
+
+    .content {
+      color: #ffffff;
+      display: table-cell;
+      vertical-align: middle;
+      padding: 7%;
+    }
+
+    @media (max-width: 767px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      p {
+        font-size: 1rem;
+        font-weight: 300;
+      }
+    }
+
+
+
+
+
+		#descer_contato {
+
+		left:0%;
+		top:0%;
+		margin-left:0%;
+		margin-top:5%;
+
+    }
+
+    #fim {
+
+		left:0%;
+		top:0%;
+		margin-left:0%;
+		margin-top:5%;
+
+    }
+
+    #baixo {
+
+		left:0%;
+		top:0%;
+		margin-left:0%;
+		margin-top:15%;
+		}
+
+
+    }
+
